@@ -2,6 +2,9 @@
 
 This is my personal portfolio website built from scratch using React, Tailwind CSS, and Vite. It highlights my skills, showcases selected projects, and offers a way to connect with me professionally.
 
+## 📺 Preview
+![Portfolio Preview](./src/assets/images/preview.png)
+
 ## 🚀 Features
 
 - ⚡ Fast and lightweight (Vite + React)
