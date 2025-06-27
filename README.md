@@ -46,4 +46,4 @@ npm run dev
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/tehreem-zafar) or email me at [tehreem.zafar06@gmail.com](mailto:tehreem.zafar06@gmail.com).
 
 ## ✨ Live Demo
-Visit my portfolio here: [TEHREEMCODES](https://google.com)
+Visit my portfolio here: [TEHREEMCODES](https://tehreemcodes.netlify.app/)
